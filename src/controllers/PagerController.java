@@ -1,7 +1,7 @@
 package controllers;
 
-import bonus.FilteringPager;
-import bonus.SimplePager;
+import bonus.pager.FilteringPager;
+import bonus.pager.SimplePager;
 import server.annotations.Controller;
 import server.annotations.Get;
 

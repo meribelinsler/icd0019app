@@ -1,4 +1,4 @@
-package bonus;
+package bonus.pager;
 
 import java.util.List;
 
